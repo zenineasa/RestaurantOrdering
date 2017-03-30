@@ -6,4 +6,6 @@ This code can be used to allow the waiters to take the order via a smartphone an
 
 Setting up is pretty easy, just upload all the files and import the sql files.
 
+The admin panel can be accessed from url/admin. The default username is admin and the password is iambatman007. This can be changed by editing the index.php file in /admin.
+
 Best wishes.
