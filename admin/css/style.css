@@ -1,0 +1,60 @@
+body{
+	margin:5% 15% 5% 15%;
+}
+a{
+	cursor:pointer;
+	color:#0000ff;
+	text-decoration:underline;
+}
+#form{
+	font-size:100%;
+	border:0;
+	border-bottom:1px solid #ccc;
+	background:none;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	width:20em;
+	padding:1em;
+}
+#login{
+	font-size: 100%;
+	border: 0;
+	padding:5px;
+	border-radius:2px;
+	background:#166f97;
+	color:#ffffff;
+}
+.box{
+	position:abolute;
+	left:10%;
+	right:10%;
+	border-radius:10px;
+	border-color:#166f97;
+	border-style:solid;
+	padding:20px;
+}
+.topbar{
+	position: fixed;
+	top:0;
+	left:0;
+	right:0;
+	padding:0.75em;
+	background:rgba(0,0,0,0.8);
+	z-index:999;
+}
+.topbar a{
+	color:#fff;
+	text-decoration:none;
+	padding: 0 0.5em 0 0.5em;
+}
+.topbar a:hover{
+	text-decoration:underline;
+}
+.right{
+	float:right;
+}
+table, tr, td{
+	border:0.1em solid #000;
+	padding:1em;
+}
